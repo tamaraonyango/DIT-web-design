@@ -1,0 +1,134 @@
+ h1 {
+  background-color: darkblue;
+  color: black;
+}
+
+h2 {
+  background-color: orange;
+  color: black;
+}
+
+h3 {
+  background-color: brown;
+  color: white;
+}
+
+h4 {
+  background-color: green;
+  color: black;
+}
+
+h5 {
+  background-color: pink;
+  color: black;
+}
+
+h6 {
+  background-color: indigo;
+  color: black;
+}
+
+p {
+  color: #2Ec1b3;
+}
+
+table {
+  background-color: greenyellow;
+}
+
+.t1 {
+  background-color: darkgrey;
+  border: 2px solid black;
+  border-radius: 15px;
+}
+
+.d1 {
+  border: 1px solid black;
+  position: absolute;
+  top: 10px;
+  left: 10px; 
+  width: 20%;
+}
+
+.d2 {
+  border: 1px solid black;
+  position: absolute;
+  top: 5%;
+  left: 45%;
+  width: 20%;
+}
+
+.d3 {
+  border: 1px solid black;
+  position: absolute;
+  top: 10%;
+  left: 60%;
+  width: 20%;
+}
+
+.d4 {
+  border: 1px solid black;
+  position: relative;
+  top: 10%;
+  left: 10%; 
+  width: 100%;
+}
+
+.d5 {
+  border: 1px solid black;
+  position: relative;
+  top: 10%;
+  left: 10%; 
+  width: 100%;
+}
+
+.d6 {
+  border: 1px solid black;
+  position: relative;
+  top: 10%;
+  left: 10%; 
+  width: 100%;
+}
+
+.d10 {
+  border: 2px solid black;
+  background-color: orange;
+  color: black;
+  width: auto;
+  height: auto;
+  position: fixed;
+  top: 10px; 
+  left: 10px; 
+}
+
+.d11 {
+  border: 2px solid black;
+  background-color: orange;
+  color: black;
+  width: auto;
+  height: auto;
+  position: sticky;
+  top: 10px; 
+  left: 10px; 
+}
+
+.form {
+  border: 3px solid black;
+  width: 35%;
+  height: auto;
+  padding: 50px;
+  background-color: orange;
+  border-radius: 5px;
+  position: relative;
+  left: 55%;
+   
+}
+table{
+	background-color: pink;
+}
+
+/*.button{
+	background-color: darkmagenta;
+	color:red;
+	font-family:cursive ;
+}*/
